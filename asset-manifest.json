@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ach_meno_5/static/css/main.acae2625.chunk.css",
-    "main.js": "/ach_meno_5/static/js/main.bde9a202.chunk.js",
-    "main.js.map": "/ach_meno_5/static/js/main.bde9a202.chunk.js.map",
+    "main.js": "/ach_meno_5/static/js/main.96239efb.chunk.js",
+    "main.js.map": "/ach_meno_5/static/js/main.96239efb.chunk.js.map",
     "runtime-main.js": "/ach_meno_5/static/js/runtime-main.b63286de.js",
     "runtime-main.js.map": "/ach_meno_5/static/js/runtime-main.b63286de.js.map",
     "static/js/2.b5881e3d.chunk.js": "/ach_meno_5/static/js/2.b5881e3d.chunk.js",
     "static/js/2.b5881e3d.chunk.js.map": "/ach_meno_5/static/js/2.b5881e3d.chunk.js.map",
     "index.html": "/ach_meno_5/index.html",
-    "precache-manifest.3aba27413b4cb7fdff295961d5367ec7.js": "/ach_meno_5/precache-manifest.3aba27413b4cb7fdff295961d5367ec7.js",
+    "precache-manifest.46cdcfda571af649acaa9dd5780e8eab.js": "/ach_meno_5/precache-manifest.46cdcfda571af649acaa9dd5780e8eab.js",
     "service-worker.js": "/ach_meno_5/service-worker.js",
     "static/css/main.acae2625.chunk.css.map": "/ach_meno_5/static/css/main.acae2625.chunk.css.map",
     "static/js/2.b5881e3d.chunk.js.LICENSE.txt": "/ach_meno_5/static/js/2.b5881e3d.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.b63286de.js",
     "static/js/2.b5881e3d.chunk.js",
     "static/css/main.acae2625.chunk.css",
-    "static/js/main.bde9a202.chunk.js"
+    "static/js/main.96239efb.chunk.js"
   ]
 }
